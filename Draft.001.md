@@ -1,4 +1,4 @@
-# Critical Report Draft 000
+# Critical Report Draft 001
 
 ## Introduction (~500)
 
@@ -40,7 +40,16 @@ While the integration of AI tools in graphic design undoubtedly offers numerous 
 
 ## Case Studies (~750)
 
-Netflix case study
+### Netflix case study
+
+Netflix use a collection of data analysis tools to constantly improve their system and graphic design. While the exact details of what data is collected and how it is used is not made public by Netflix, they have publicly stated their use of AI and ML within their streaming service.
+
+Aesthetic Visual Analysis (AVA) is a large-scale database, containing over 250,000 images along with a rich variety of meta-data including a large number of aesthetic scores for each image, semantic labels for over 60 categories as well as labels relating the images to photographic styles. Introduced in paper published in the 2012 IEEE Conference on Computer Vision and Pattern Recognition.
+
+The Netflix technology team have explained how they use similar technology “by harvesting static image frames directly from our source videos to provide a more flexible source of raw artwork”. [https://netflixtechblog.com/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6] While they haven’t explicitly stated their use of the IEEE paper, there technology shares similarities in the way it works.
+
+Another way they _test_ these covers is through a/b testing, a/b testing is a simple way to collect a lot of data from their over 260,000,000 global paid users. They will create 2 or more covers for the same title, then show a percentage of users one of the covers, based on who clicks these different covers can be a way to evaluate their efficacy.
+
 Amazon case study
 
 ## Critique of AI Overuse (~1000)
