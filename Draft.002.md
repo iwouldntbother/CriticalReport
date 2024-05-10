@@ -10,6 +10,18 @@ Personally, AI, particularly machine learning, holds a profound interest in my l
 
 (Otal and Canbaz, 2024) [http://arxiv.org/abs/2402.10908] highlight a critical concern in the integration of LLMs into emergency response systems, emphasising the risk of AI systems perpetuating societal biases. They point out that these biases may manifest as slower response times in specific demographic areas or errors in facial recognition technologies. Despite the potential efficiency gains, the authors acknowledge the pressing challenges associated with deploying AI models in crucial systems. This underscores the importance of further exploring and addressing these issues to ensure equitable and effective emergency response mechanisms.
 
+## Tool vs. Utility
+
+In the context of AI and graphic design, the terms "tools" and "utilities" often overlap, but they have distinct connotations.
+
+**Tools** in AI and graphic design refer to software or features within software that enable the creation, modification, and enhancement of designs. They are the primary means by which designers interact with their work. Examples include drawing tools, shape tools, text tools, and color tools in graphic design software. In the context of AI, tools might refer to algorithms, models, or software libraries that allow for tasks such as image recognition, style transfer, or automated design.
+
+On the other hand, **utilities** are supportive features or standalone software that facilitate the design process but are not directly involved in creating the design. They perform auxiliary functions that make the designer's work more efficient or organized. Examples include color pickers, layer managers, file converters, and batch processing software in graphic design. In the context of AI, utilities could refer to data preprocessing scripts, model training schedulers, or performance benchmarking tools.
+
+The key difference between tools and utilities lies in their primary function. Tools are directly involved in the creation and manipulation of designs, while utilities support these processes by improving efficiency, organization, and workflow. However, the distinction is not always clear-cut, as some software or features can function as both a tool and a utility depending on how they are used.
+
+In the rapidly evolving field of AI-assisted graphic design, tools and utilities are becoming increasingly integrated. AI tools can generate designs based on user input, while AI utilities can automate repetitive tasks, organize design elements, and even provide suggestions to improve designs. This integration of tools and utilities is transforming the graphic design process, enabling designers to focus more on creativity and less on manual tasks.
+
 ## Background (~500)
 
 AI's impact on the field of graphic design is profound and far-reaching, shaping the industry's landscape historically and continuing to revolutionize it today. Through automation, enhanced creativity, and transformative workflows, AI has left an indelible mark on graphic design practices worldwide.
