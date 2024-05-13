@@ -110,3 +110,15 @@ Source: Conversation with Bing, 15/04/2024
 (38) 13 AI-Driven Tools Every Graphic Designer Should Know. https://meetcandid.com/13-ai-tools-for-graphic-designer/.
 (39) undefined. https://kpmg.com/xx/en/home/insights/2022/04/the-future-of-the-metaverse.html.
 (40) undefined. https://edition.cnn.com/style/article/liberland-metaverse-city-zaha-hadid-architects/index.html.
+
+Netflix has been at the forefront of using A/B testing to optimize user experience, particularly through the selection of cover images for its content. This method involves presenting different sets of artwork to different segments of their audience and measuring which images drive more engagement¹. The rationale behind this is rooted in neuroscience findings that humans can process images in as little as 13 milliseconds, making visual cues a significant factor in content selection¹.
+
+In one of their experiments, Netflix aimed to identify artwork that not only helped members find content faster but also increased overall engagement without misrepresenting the title¹. They collaborated with their Creative Services team to create compelling artwork that conveys the emotion of a title in a single image. The challenge was to capture a member's attention within 90 seconds, the critical window before a user might lose interest¹.
+
+Netflix's A/B testing philosophy is about building incrementally, using data to drive decisions, and failing fast. They conduct rigorous tests with a complex set of hypotheses to continuously improve the member experience¹. This approach has led to a personalized user interface where the artwork is not just a static image but a dynamic element tailored to individual preferences, significantly enhancing the platform's ability to recommend the right titles to the right users².
+
+Source: Conversation with Bing, 10/05/2024
+(1) Selecting the best artwork for videos through A/B testing | by Netflix .... https://netflixtechblog.com/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6.
+(2) Artwork Personalization at Netflix | by Netflix Technology Blog .... https://netflixtechblog.com/artwork-personalization-c589f074ad76.
+(3) Netflix Tests Movie and TV Show Images to Optimize Interaction - Variety. https://variety.com/2016/digital/news/netflix-ab-tests-image-optimization-trick-1201674325/.
+(4) How Netflix does A/B testing | Inside Design Blog - InVision. https://www.invisionapp.com/inside-design/how-netflix-does-ab-testing/.
