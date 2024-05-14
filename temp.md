@@ -122,3 +122,19 @@ Source: Conversation with Bing, 10/05/2024
 (2) Artwork Personalization at Netflix | by Netflix Technology Blog .... https://netflixtechblog.com/artwork-personalization-c589f074ad76.
 (3) Netflix Tests Movie and TV Show Images to Optimize Interaction - Variety. https://variety.com/2016/digital/news/netflix-ab-tests-image-optimization-trick-1201674325/.
 (4) How Netflix does A/B testing | Inside Design Blog - InVision. https://www.invisionapp.com/inside-design/how-netflix-does-ab-testing/.
+
+Using these 5 learning outcomes:
+
+1: Initiate a self-directed enquiry that develops and explores a research question informed by
+a critical awareness of contexts, media and methods relevant to your practice. (AC Enquiry)
+2: Integrate and articulate your practice within historical and contemporary contexts of
+Graphic Communication Design specific to your enquiry. (AC Knowledge)
+3: Define your practice by taking an iterative and interrogative approach to experimentation.
+(AC Process)
+4: Implement media and messages with intention to communicate effectively.
+(AC Communication)
+5: Develop and refine an integrated portfolio of practice and writing that expresses and
+defends your creative and ethical position in relation to Graphic Communication Design.
+(AC Realisation)
+
+Take the following text and show where if at all the learning outcomes have been used. Do not change the text. Just show in the text where the outcomes used.
