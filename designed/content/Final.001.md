@@ -1,4 +1,8 @@
-# Critical Report Draft 005
+# Critical Report
+
+QQ"What moral issues stem from excessive integration of Artificial Intelligence into creative tools?"
+
+By William Westwood
 
 ## Introduction
 
@@ -50,9 +54,7 @@ Moreover, AI enables dynamic adjustments to accommodate various accessibility re
 
 While the integration of AI tools in graphic design undoubtedly offers numerous advantages, it is crucial to acknowledge that excessive reliance on AI may also pose significant challenges. Thus, while exploring the benefits of AI integration, it is equally important to consider its potential drawbacks.
 
-## Case Studies
-
-### Netflix case study
+## Netflix case study
 
 Netflix’s innovative use of data analysis tools and graphic design is a cornerstone of their strategy to continuously improve their streaming service. While the specifics of their data collection and usage are proprietary, Netflix has publicly acknowledged the integration of artificial intelligence (AI) and machine learning (ML) within their platform. This commitment to technology enables Netflix to offer a highly personalized viewing experience, tailoring content and recommendations to individual preferences.
 
@@ -136,11 +138,7 @@ Moreover, these false AI use claims can have serious implications for workers in
 
 In conclusion, while AI has the potential to revolutionize various industries, it is essential for companies to be honest about their use of this technology. AI washing and false AI use claims not only mislead consumers and investors but also raise serious ethical concerns. As we continue to navigate the AI era, transparency, honesty, and ethical labour practices must be at the forefront.
 
----
-
-"Explainable artificial intelligence (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms." (IBM, 2024)
-
----
+QQ "Explainable artificial intelligence (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms." (IBM, 2024)
 
 ## Issues in the creation of AI models
 
@@ -169,35 +167,19 @@ In light of these challenges, the role of the designer is evolving. Continuous l
 ## Bibliography
 
 Bianchi, F. et al. (2023) ‘Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale’, in 2023 ACM Conference on Fairness, Accountability, and Transparency. FAccT ’23: the 2023 ACM Conference on Fairness, Accountability, and Transparency, Chicago IL USA: ACM, pp. 1493–1504. Available at: https://doi.org/10.1145/3593013.3594095.
-
 Chandrashekar, A. et al. (2017) Artwork Personalization at Netflix, Medium. Available at: https://netflixtechblog.com/artwork-personalization-c589f074ad76 (Accessed: 14 May 2024).
-
 Denisa (last) (2023) Designing for Inclusivity: AI’s Role in Accessibility, https://wolfpack-digital.com. Available at: https://www.wolfpack-digital.com/blogposts/designing-for-inclusivity-ai-s-role-in-accessibility (Accessed: 14 May 2024).
-
 Dilmegani, C. (2024) Generative AI Fashion Industry: Use Cases & Examples in 2024, AIMultiple: High Tech Use Cases &amp; Tools to Grow Your Business. Available at: https://research.aimultiple.com/generative-ai-fashion/ (Accessed: 14 May 2024).
-
 Flanders, C. (2023) The Role of AI in Personalizing User Experiences, Medium. Available at: https://bootcamp.uxdesign.cc/the-role-of-ai-in-personalizing-user-experiences-f3d980b89445 (Accessed: 14 May 2024).
-
 Hutson, J. et al. (2024a) ‘Case Studies: AI in Action in Art and Design’, in J. Hutson et al. (eds) Creative Convergence: The AI Renaissance in Art and Design. Cham: Springer Nature Switzerland, pp. 133–195. Available at: https://doi.org/10.1007/978-3-031-45127-0_6.
-
 Hutson, J. et al. (2024b) Creative Convergence: The AI Renaissance in Art and Design. Cham: Springer Nature Switzerland (Springer Series on Cultural Computing). Available at: https://doi.org/10.1007/978-3-031-45127-0.
-
 IBM (2024) What is Explainable AI (XAI)?, IBM. Available at: https://www.ibm.com/topics/explainable-ai (Accessed: 14 May 2024).
-
 Krishnan, G. (2016) Selecting the best artwork for videos through A/B testing, Medium. Available at: https://netflixtechblog.com/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6 (Accessed: 14 May 2024).
-
 Murray, N., Marchesotti, L. and Perronnin, F. (2012) ‘AVA: A large-scale database for aesthetic visual analysis’, in 2012 IEEE Conference on Computer Vision and Pattern Recognition. 2012 IEEE Conference on Computer Vision and Pattern Recognition, pp. 2408–2415. Available at: https://doi.org/10.1109/CVPR.2012.6247954.
-
 Nolan, L. (2024) Amazon’s ‘Just Walk Out’ AI Shopping Tech Relies Heavily on 1,000 Indian Employees Watching Customers, Breitbart. Available at: https://www.breitbart.com/tech/2024/04/03/amazons-just-walk-out-ai-shopping-tech-relies-heavily-on-1000-indian-employees-watching-customers/ (Accessed: 14 May 2024).
-
 Otal, H.T. and Canbaz, M.A. (2024) ‘LLM-Assisted Crisis Management: Building Advanced LLM Platforms for Effective Emergency Response and Public Collaboration’. arXiv. Available at: http://arxiv.org/abs/2402.10908 (Accessed: 14 May 2024).
-
 Riley, M. et al. (2018) AVA: The Art and Science of Image Discovery at Netflix, Medium. Available at: https://netflixtechblog.com/ava-the-art-and-science-of-image-discovery-at-netflix-a442f163af6 (Accessed: 14 May 2024).
-
 SEC (2024) ‘SEC Charges Two Investment Advisers with Making False and Misleading Statements About Their Use of Artificial Intelligence’. U.S. Securities and Exchange Commission. Available at: https://www.sec.gov/news/press-release/2024-36 (Accessed: 14 May 2024).
-
 Stevens, E. (2024) Using AI for Product Design: The Complete Guide, Career Foundry. Available at: https://careerfoundry.com/en/blog/product-design/ai-product-design/ (Accessed: 14 May 2024).
-
 Tukol, A. (2023) ‘Experimenting with GenAI in Design Research’, SDN New York Chapter, 1 December. Available at: https://medium.com/sdn-new-york-chapter/experimenting-with-genai-in-design-research-f7cce0ea1fae (Accessed: 14 May 2024).
-
 Verganti, R., Vendraminelli, L. and Iansiti, M. (no date) ‘Design in the Age of Artificial Intelligence’.
