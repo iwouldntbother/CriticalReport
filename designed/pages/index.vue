@@ -11,6 +11,9 @@
         <Header :text="line.replace('##', '')" font="Small" />
       </template>
       <template v-else-if="line.substring(0, 1) === '#'">
+        <br />
+        <br />
+        <br />
         <Header :text="line.replace('#', '')" font="ANSI Shadow" />
       </template>
       <temaplate v-else-if="line.substring(0, 2) === 'QQ'">
