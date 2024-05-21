@@ -19,12 +19,22 @@ jobs:
       # Pick your own package manager and build script
       - run: npm install
       - run: npx nuxt build --preset github_pages
+      - name: Debug - List directory structure
+        run: |
+          echo "Listing the designed directory"
+          ls -R
       - name: Create CNAME
-        run: echo "report.wwstwd.studio" > .output/public/CNAME
+        run: |
+          mkdir -p .output/public
+          echo "report.wwstwd.studio" > .output/public/CNAME
+      - name: Debug - Verify CNAME creation
+        run: |
+          echo "Verifying CNAME creation"
+          cat .output/public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .output/public
+          path: ./.output/public
   # Deployment job
   deploy:
     # Add a dependency to the build job
