@@ -40,4 +40,9 @@ body {
   background-color: rgb(var(--text));
   transition: background-color 0.5s;
 }
+
+.link {
+  color: #58a6ff;
+  text-decoration: none;
+}
 </style>

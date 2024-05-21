@@ -16,12 +16,12 @@
         <br />
         <Header :text="line.replace('#', '')" font="ANSI Shadow" />
       </template>
-      <temaplate v-else-if="line.substring(0, 2) === 'QQ'">
+      <template v-else-if="line.substring(0, 2) === 'QQ'">
         <h2 class="quote">{{ line.replace('QQ', '') }}</h2>
         <br />
-      </temaplate>
+      </template>
       <template v-else>
-        <p class="paragraph">{{ line }}</p>
+        <p class="paragraph" v-html="formatUrlsAsAnchors(line)"></p>
         <br />
       </template>
     </template>
@@ -37,6 +37,18 @@ import file from '/content/Final.001.md?raw';
 const data = file.split('\n');
 
 // fullString.value = data[0].body.children;
+function formatUrlsAsAnchors(input: string): string {
+  const urlPattern = /https?:\/\/[^\s/$.?#].[^\s]*/g;
+
+  // Replace URLs with anchor tags
+  const formattedString = input.replace(urlPattern, (url) => {
+    // Remove trailing full stop if present
+    const cleanedUrl = url.endsWith('.') ? url.slice(0, -1) : url;
+    return `<a class='link' href="${cleanedUrl}" target="_blank" rel="noopener noreferrer">${cleanedUrl}</a>.`;
+  });
+
+  return formattedString;
+}
 </script>
 
 <style scoped>

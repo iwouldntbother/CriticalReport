@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - NUXT
+      - gh-pages
 jobs:
   build:
     runs-on: ubuntu-latest
