@@ -3,11 +3,12 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - gh-pages
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - run: cd designed
       - uses: actions/checkout@v4
       - run: corepack enable
       - uses: actions/setup-node@v4
