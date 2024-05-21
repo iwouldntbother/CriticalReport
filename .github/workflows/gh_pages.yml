@@ -19,10 +19,10 @@ jobs:
       # Pick your own package manager and build script
       - run: npm install
       - run: npx nuxt build --preset github_pages
-      # - name: Create CNAME
-      #   run: echo "report.wwstwd.studio" > ./.output/CNAME
+      - name: Create CNAME
+        run: echo "report.wwstwd.studio" > ./.output/CNAME
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3.0.1
         with:
           path: ./.output/public
   # Deployment job
@@ -31,6 +31,7 @@ jobs:
     needs: build
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
     permissions:
+      actions: read
       pages: write # to deploy to Pages
       id-token: write # to verify the deployment originates from an appropriate source
     # Deploy to the github_pages environment
